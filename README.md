@@ -1,20 +1,45 @@
-<h1 align="center">Hola 👋, ¡soy Mariano!</h1>
-<h3 align="center">Un desarrollador frontend apasionado de Argentina</h3>
+# 👨‍💻 Mariano | SysAdmin Jr. & Pentester  
 
-<p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=caceresmariano" alt="caceresmariano" / ></a> </p>
+## 🚀 Sobre mí  
+Soy **SysAdmin Junior en formación**, orientando mi carrera hacia la **Ciberseguridad**, específicamente al **pentesting**. Me recibí de **Técnico en Redes de Datos y Telecomunicaciones** y actualmente estoy ampliando mis conocimientos en administración de servidores, redes y seguridad.  
 
-- 🔭 Actualmente estoy trabajando en **PI-Country y PF-KaneTravel**
+## 🔧 Habilidades  
+### 🖥️ Administración de Sistemas & Redes  
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) **Linux**  
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) **Windows Server**  
+- ![MikroTik](https://img.shields.io/badge/MikroTik-EA1B5D?style=flat&logo=mikrotik&logoColor=white) **MikroTik**  
+- ![ArubaOS](https://img.shields.io/badge/ArubaOS-FF8300?style=flat&logo=hewlett-packard&logoColor=white) **ArubaOS**  
+- ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white) **Fortinet**  
+- ![pfSense](https://img.shields.io/badge/pfSense-003366?style=flat&logo=pfsense&logoColor=white) **pfSense**  
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) **Docker**  
+- Virtualización con ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white) **VirtualBox** y ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white) **Proxmox**  
 
-- 🌱 Actualmente estoy aprendiendo **Redes de Datos y Telecomunicaciones**
+### 🛡️ Ciberseguridad & Pentesting  
+- ![Metasploit](https://img.shields.io/badge/Metasploit-00AEEF?style=flat&logo=metasploit&logoColor=white) **Metasploit**  
+- ![Nmap](https://img.shields.io/badge/Nmap-00497A?style=flat&logo=nmap&logoColor=white) **Nmap**  
+- ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) **Wireshark**  
+- ![Suricata](https://img.shields.io/badge/Suricata-FF3300?style=flat&logo=suricata&logoColor=white) **Suricata** 
+ 
 
-- 📫 Cómo contactarme **mariano.caceres262@gmail.com**
+### 🖥️ Desarrollo y Programación  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python**  
+- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) **FastAPI**  
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) **MySQL**  
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) **Node.js**  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript**  
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) **React**  
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mariano-caceres-9700b6221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github -profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariano-caceres-9700b6221" height="30" width="40" /></a>
-</p>
+## 📂 Proyectos Destacados  
+- 🔹 [Automatización de Auditorías de Seguridad](#) – Script en Python para escaneo de vulnerabilidades.  
+- 🔹 [Red Segura con MikroTik](#) – Implementación de firewall y VPN para seguridad perimetral.  
+- 🔹 [Análisis de Logs en Linux](#) – Herramienta para detección de actividad sospechosa.  
 
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/ logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel=" noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40 "/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https: //www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark .svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/ figma-icon.svg" alt="figma" ancho="40" altura="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel= "noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https:// developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height=" 40"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons /nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target=" _blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40 " altura="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cartero" width="40" height="40"/> </a> <a href=" https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original. svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </ un><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" ancho ="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https:// raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https: //www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" ancho="40" altura="40"/> </a> </p>
+## 📜 Certificaciones  
+- 🏅 **Google Cybersecurity Certificate** (En curso)  
+- 🏅 **Hack The Box** (En proceso)  
+- 🏅 **Cisco CCNA** (Próximamente)  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caceresmariano&show_icons=true&locale=en&layout=compact" alt="caceresmariano" /> </p>
+## 📬 Contacto  
+📧 **Email:** [Gmail](mariano.caceres262@gmail.com)  
+🔗 **LinkedIn:**  [Mi Perfil](https://www.linkedin.com/in/mariano-caceres-9700b6221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)   
+🌐 **Blog/Portfolio:** [Tu página web]
