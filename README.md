@@ -29,7 +29,7 @@ Soy **SysAdmin Junior en formación**, orientando mi carrera hacia la **Ciberseg
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript**  
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) **React**  
 
-## 📂 Proyectos Destacados  
+## 📂 Proyectos Destacados (En Proceso)
 - 🔹 [Automatización de Auditorías de Seguridad](#) – Script en Python para escaneo de vulnerabilidades.  
 - 🔹 [Red Segura con MikroTik](#) – Implementación de firewall y VPN para seguridad perimetral.  
 - 🔹 [Análisis de Logs en Linux](#) – Herramienta para detección de actividad sospechosa.  
